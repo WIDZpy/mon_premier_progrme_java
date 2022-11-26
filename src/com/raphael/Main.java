@@ -81,4 +81,7 @@ public class Main {
 
         return newlist;
     }
+    static void log(Object msg){
+        System.out.println(msg);
+    }
 }
